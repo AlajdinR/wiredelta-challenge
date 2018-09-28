@@ -1,0 +1,17 @@
+
+.Footer {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* padding: 0px 0; */
+    box-sizing: border-box;
+    z-index: 90;
+}
+
+

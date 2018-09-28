@@ -1,0 +1,20 @@
+.MapStyle {
+    margin: 20px auto;
+    top: 150px;
+    left: 25%;
+    width:500px;
+    height: 500px;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+      
+}
+
+@media (min-width: 600px) {
+    .MapStyle {
+        width: 80%;
+    }
+}
